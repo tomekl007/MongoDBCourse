@@ -15,6 +15,7 @@
     <file path="/DotNotation.java" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1376157897656" ignored="false" />
     <file path="/DotNotationTest.java" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1376158415875" ignored="false" />
     <file path="/UpdateRemoveTest.java" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1376158529654" ignored="false" />
+    <file path="/h3_1.java" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1376637997555" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,56 +76,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DBObject.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/DBObject.class">
+      <file leaf-file-name="h3_1.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week3/h3_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="12" selection-start="242" selection-end="242" vertical-scroll-proportion="-4.8">
+            <state line="39" column="34" selection-start="1715" selection-end="1715" vertical-scroll-proportion="-0.2857143">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1049#1064#0" expanded="true" />
+                <element signature="e#1903#1904#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBCollection.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/DBCollection.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="75" column="32" selection-start="4328" selection-end="4328" vertical-scroll-proportion="-7.44">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DocumentRepresenationTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week2/DocumentRepresenationTest.java">
+      <file leaf-file-name="FindAndModifyTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week2/FindAndModifyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="8" selection-start="399" selection-end="750" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="55" column="47" selection-start="1815" selection-end="1828" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InsertTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week2/InsertTest.java">
+      <file leaf-file-name="BasicDBList.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/BasicDBList.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="73" selection-start="312" selection-end="614" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week2/FindTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="32" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DotNotationTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week2/DotNotationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="74" selection-start="2447" selection-end="2447" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#2690#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="10" column="11" selection-start="359" selection-end="359" vertical-scroll-proportion="-6.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -132,46 +119,8 @@
       <file leaf-file-name="UpdateRemoveTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/week2/UpdateRemoveTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="26" selection-start="1397" selection-end="1397" vertical-scroll-proportion="0.0">
+            <state line="35" column="21" selection-start="1189" selection-end="1189" vertical-scroll-proportion="0.0">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindAndModifyTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week2/FindAndModifyTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="28" selection-start="1110" selection-end="1110" vertical-scroll-proportion="-1.4577115">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QueryBuilder.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/QueryBuilder.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="43" selection-start="452" selection-end="452" vertical-scroll-proportion="-8.4">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BasicDBObject.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/BasicDBObject.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="154" selection-end="154" vertical-scroll-proportion="-3.4">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWOrldMongoDb.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week1/HelloWOrldMongoDb.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="52" selection-start="352" selection-end="623" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -187,7 +136,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/HelloWOrldMongoDb.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/hello.ftl" />
         <option value="$PROJECT_DIR$/src/main/java/HelloWordSpark.java" />
         <option value="$PROJECT_DIR$/src/main/java/HelloWorldFreeMarker.java" />
@@ -199,14 +147,16 @@
         <option value="$PROJECT_DIR$/src/main/java/week2/DotNotationTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/week2/UpdateRemoveTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/week2/FindAndModifyTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/week3/h3_1.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="22" />
-    <option name="width" value="1420" />
-    <option name="height" value="795" />
+    <option name="x" value="1440" />
+    <option name="y" value="-282" />
+    <option name="width" value="1588" />
+    <option name="height" value="1014" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -234,7 +184,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -267,8 +216,22 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="MongoCourse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MongoCourse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -290,7 +253,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -348,6 +315,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -355,6 +323,7 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
@@ -365,23 +334,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/week2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindAndModifyTest">
-    <configuration default="false" name="InsertTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="week2.InsertTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MongoCourse" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.h3_1">
     <configuration default="false" name="FindTest" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="week2.FindTest" />
       <option name="VM_PARAMETERS" />
@@ -443,6 +396,28 @@
       <module name="MongoCourse" />
       <envs />
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="h3_1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="week3.h3_1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MongoCourse" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -535,19 +510,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.InsertTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FindTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DotNotationTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.UpdateRemoveTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FindAndModifyTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FindTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DotNotationTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.UpdateRemoveTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FindAndModifyTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.h3_1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FindAndModifyTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.UpdateRemoveTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DotNotationTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FindTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.InsertTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.h3_1" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FindTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FindAndModifyTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.UpdateRemoveTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DotNotationTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -565,29 +540,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1420" height="795" extended-state="0" />
+    <frame x="1440" y="-282" width="1588" height="1014" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3277405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.6711111" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2224384" sideWeight="0.6722595" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3277405" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -655,131 +630,115 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/sparkjava/spark-core/1.0/spark-core-1.0.jar!/spark/AbstractRoute.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="32" selection-start="321" selection-end="321" vertical-scroll-proportion="0.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hello.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="33" selection-start="69" selection-end="77" vertical-scroll-proportion="0.14117648">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week1/HelloWordSpark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="21" selection-start="1228" selection-end="1228" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/org/bson/BSONObject.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="155" selection-end="155" vertical-scroll-proportion="0.15273312">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week1/HelloWorldFreeMarker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="4" selection-start="447" selection-end="513" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#855#871#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/BasicDBObject.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="154" selection-end="154" vertical-scroll-proportion="-3.4">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/DBObject.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="12" selection-start="242" selection-end="242" vertical-scroll-proportion="-4.8">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week1/HelloWOrldMongoDb.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="52" selection-start="352" selection-end="623" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week2/InsertTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="73" selection-start="312" selection-end="614" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="20" column="52" selection-start="352" selection-end="623" vertical-scroll-proportion="0.46728972">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/DBCursor.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="154" selection-end="154" vertical-scroll-proportion="0.20604396">
-          <folding />
-        </state>
+        <state line="6" column="13" selection-start="154" selection-end="154" vertical-scroll-proportion="0.20604396" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/QueryBuilder.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="43" selection-start="452" selection-end="452" vertical-scroll-proportion="-8.4">
+        <state line="15" column="43" selection-start="452" selection-end="452" vertical-scroll-proportion="0.024311183" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week2/DocumentRepresenationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="8" selection-start="399" selection-end="750" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week2/DotNotationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="74" selection-start="2447" selection-end="2447" vertical-scroll-proportion="0.60280377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week2/InsertTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="42" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="332" column="12" selection-start="14898" selection-end="14898" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="341" column="12" selection-start="15833" selection-end="15833" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="152" column="57" selection-start="6705" selection-end="6705" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="1132" selection-end="1132" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week2/FindTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="32" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week2/DocumentRepresenationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="8" selection-start="399" selection-end="750" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week2/DotNotationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="74" selection-start="2447" selection-end="2447" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#2690#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="47" column="13" selection-start="1200" selection-end="1508" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week2/UpdateRemoveTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="26" selection-start="1397" selection-end="1397" vertical-scroll-proportion="0.0">
+        <state line="35" column="21" selection-start="1189" selection-end="1189" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week2/FindAndModifyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="28" selection-start="1110" selection-end="1110" vertical-scroll-proportion="-1.4577115">
+        <state line="55" column="47" selection-start="1815" selection-end="1828" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/BasicDBList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="11" selection-start="359" selection-end="359" vertical-scroll-proportion="-6.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/DBCollection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="32" selection-start="4328" selection-end="4328" vertical-scroll-proportion="-7.44">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week3/h3_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="34" selection-start="1715" selection-end="1715" vertical-scroll-proportion="-0.2857143">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1049#1064#0" expanded="true" />
+            <element signature="e#1903#1904#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
