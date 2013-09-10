@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="874b2f35-f70a-4580-87c1-26fe54c27f9b" name="Default" comment="" />
+    <list default="true" id="874b2f35-f70a-4580-87c1-26fe54c27f9b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/week6/ReplicaSetTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/week6/WriteConcernTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="MongoCourse.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/pom.xml" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1376140570749" ignored="false" />
+    <file path="/pom.xml" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1378388367035" ignored="false" />
     <file path="/HelloWOrldMongoDb.java" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1376135103364" ignored="false" />
     <file path="/HelloWordSpark.java" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1376141554884" ignored="false" />
     <file path="/HelloWorldFreeMarker.java" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1376140867621" ignored="false" />
@@ -16,6 +21,17 @@
     <file path="/DotNotationTest.java" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1376158415875" ignored="false" />
     <file path="/UpdateRemoveTest.java" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1376158529654" ignored="false" />
     <file path="/h3_1.java" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1376637997555" ignored="false" />
+    <file path="/BlogPostDAO.java" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1376641534156" ignored="false" />
+    <file path="$USER_HOME$/mongoDb_course/hw3-2and3-3/src/main/java/course/BlogPostDAO.java" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1376641610130" ignored="false" />
+    <file path="/Dummy.txt" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1378388458171" ignored="false" />
+    <file path="/ReplicaSetTest.java" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1378372034123" ignored="false" />
+    <file path="/WriteConcernTest.java" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1378374329194" ignored="false" />
+    <file path="$PROJECT_DIR$/../samlefaktura2-scalatests/accountBalancerTests/src/test/scala/BusinessModelTest.scala" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1378374463531" ignored="false" />
+    <file path="/BusinessModelTest.scala" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1378374463531" ignored="false" />
+    <file path="/fragment.java" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1378377472876" ignored="false" />
+    <file path="$PROJECT_DIR$/../samlefaktura2-scalatests/accountBalancerTests/pom.xml" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1378385655599" ignored="false" />
+    <file path="$PROJECT_DIR$/../samlefaktura2-scalatests/pom.xml" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1378388369099" ignored="false" />
+    <file path="$PROJECT_DIR$/../samlefaktura2-scalatests/.idea/workspace.xml" changelist="874b2f35-f70a-4580-87c1-26fe54c27f9b" time="1378388975567" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,23 +92,67 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="h3_1.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="h3_1.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/week3/h3_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="34" selection-start="1715" selection-end="1715" vertical-scroll-proportion="-0.2857143">
+            <state line="16" column="62" selection-start="250" selection-end="595" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReplicaSetTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week6/ReplicaSetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="8" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1049#1064#0" expanded="true" />
-                <element signature="e#1903#1904#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DBCollection.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/DBCollection.class">
+      <file leaf-file-name="WriteConcernTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week6/WriteConcernTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="32" selection-start="4328" selection-end="4328" vertical-scroll-proportion="-7.44">
+            <state line="21" column="57" selection-start="712" selection-end="712" vertical-scroll-proportion="0.21917808">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadPreference.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1-sources.jar!/com/mongodb/ReadPreference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="225" column="33" selection-start="6935" selection-end="6935" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#4558#4568#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WriteConcern.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1-sources.jar!/com/mongodb/WriteConcern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="82" column="37" selection-start="2873" selection-end="2873" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#18821#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#14832#14854#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week2/InsertTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="42" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -107,19 +167,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BasicDBList.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/BasicDBList.class">
+      <file leaf-file-name="DocumentRepresenationTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week2/DocumentRepresenationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="11" selection-start="359" selection-end="359" vertical-scroll-proportion="-6.0">
-              <folding />
+            <state line="9" column="22" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UpdateRemoveTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week2/UpdateRemoveTest.java">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="21" selection-start="1189" selection-end="1189" vertical-scroll-proportion="0.0">
+            <state line="22" column="12" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -132,6 +194,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -140,25 +210,34 @@
         <option value="$PROJECT_DIR$/src/main/java/HelloWordSpark.java" />
         <option value="$PROJECT_DIR$/src/main/java/HelloWorldFreeMarker.java" />
         <option value="$PROJECT_DIR$/src/main/java/week1/HelloWorldFreeMarker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week2/DocumentRepresenationTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/week2/InsertTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/week2/FindTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/week2/DotNotation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week2/DotNotationTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/week2/UpdateRemoveTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/week2/FindAndModifyTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/week3/h3_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week2/DotNotationTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/week2/DocumentRepresenationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week6/ReplicaSetTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week6/WriteConcernTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1440" />
-    <option name="y" value="-282" />
-    <option name="width" value="1588" />
-    <option name="height" value="1014" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="37" />
+    <option name="y" value="38" />
+    <option name="width" value="1362" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -257,6 +336,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="week6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MongoCourse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MongoCourse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="week3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -320,55 +425,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../samlefaktura2-scalatests" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/week2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.h3_1">
+  <component name="RunManager" selected="Application.WriteConcernTest">
     <configuration default="false" name="FindTest" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="week2.FindTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MongoCourse" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="DotNotationTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="week2.DotNotationTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MongoCourse" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="UpdateRemoveTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="week2.UpdateRemoveTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -418,6 +496,44 @@
       </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ReplicaSetTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="week6.ReplicaSetTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MongoCourse" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="WriteConcernTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="week6.WriteConcernTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MongoCourse" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -511,18 +627,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.FindTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DotNotationTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.UpdateRemoveTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FindAndModifyTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.h3_1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.FindAndModifyTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.h3_1" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ReplicaSetTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.WriteConcernTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.h3_1" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FindTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FindAndModifyTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.UpdateRemoveTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DotNotationTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.WriteConcernTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ReplicaSetTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.h3_1" />
+        <item index="3" class="java.lang.String" itemvalue="Application.FindTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FindAndModifyTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -531,6 +647,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="874b2f35-f70a-4580-87c1-26fe54c27f9b" name="Default" comment="" />
@@ -540,24 +673,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-282" width="1588" height="1014" extended-state="0" />
-    <editor active="true" />
+    <frame x="37" y="38" width="1362" height="738" extended-state="0" />
+    <editor active="false" />
     <layout>
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="137" y="138" width="1162" height="538" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3277405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32741934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2224384" sideWeight="0.6722595" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3277405" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2218845" sideWeight="0.67313915" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32686085" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -630,33 +764,28 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/week1/HelloWOrldMongoDb.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/src.zip!/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="52" selection-start="352" selection-end="623" vertical-scroll-proportion="0.46728972">
+        <state line="341" column="12" selection-start="15833" selection-end="15833" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/DBCursor.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="154" selection-end="154" vertical-scroll-proportion="0.20604396" />
+        <state line="152" column="57" selection-start="6705" selection-end="6705" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/QueryBuilder.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/week2/FindTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="43" selection-start="452" selection-end="452" vertical-scroll-proportion="0.024311183" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week2/DocumentRepresenationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="8" selection-start="399" selection-end="750" vertical-scroll-proportion="0.0">
+        <state line="30" column="0" selection-start="928" selection-end="928" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week2/DotNotationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="74" selection-start="2447" selection-end="2447" vertical-scroll-proportion="0.60280377">
+        <state line="58" column="37" selection-start="2133" selection-end="2133" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -668,44 +797,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="332" column="12" selection-start="14898" selection-end="14898" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="341" column="12" selection-start="15833" selection-end="15833" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="57" selection-start="6705" selection-end="6705" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="1132" selection-end="1132" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week2/FindTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="13" selection-start="1200" selection-end="1508" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week2/UpdateRemoveTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="21" selection-start="1189" selection-end="1189" vertical-scroll-proportion="0.0">
+        <state line="31" column="16" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -717,27 +811,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/BasicDBList.class">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="11" selection-start="359" selection-end="359" vertical-scroll-proportion="-6.0">
+        <state line="22" column="12" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/DBCollection.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/week2/DocumentRepresenationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="32" selection-start="4328" selection-end="4328" vertical-scroll-proportion="-7.44">
-          <folding />
+        <state line="9" column="22" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week3/h3_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="34" selection-start="1715" selection-end="1715" vertical-scroll-proportion="-0.2857143">
+        <state line="16" column="62" selection-start="250" selection-end="595" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/WriteConcern.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="52" selection-start="575" selection-end="575" vertical-scroll-proportion="27.12">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/ReadPreference.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="45" selection-start="1966" selection-end="1966" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1-sources.jar!/com/mongodb/ReadPreference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="225" column="33" selection-start="6935" selection-end="6935" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4558#4568#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1-sources.jar!/com/mongodb/WriteConcern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="37" selection-start="2873" selection-end="2873" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#18821#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#14832#14854#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week6/ReplicaSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="8" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1049#1064#0" expanded="true" />
-            <element signature="e#1903#1904#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week6/WriteConcernTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="57" selection-start="712" selection-end="712" vertical-scroll-proportion="0.21917808">
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
